@@ -1,8 +1,3 @@
 env/
 env38/
-build/
-PyEyeTrack.egg-info/
-*.pyc
-__pycache__/
 shape_predictor_68_face_landmarks.dat*
-Output/
